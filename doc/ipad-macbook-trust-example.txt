@@ -1,0 +1,37 @@
+# ipad and macbook connection
+
+
+
+
+## Failed Case
+
+1. ipad asking trusting this computer,
+- Trust
+
+Apple ID verification:
+justinchung7825@outlook.com
+  - auth/justin_outlook_icloud
+
+6 digit 2FA arrived on other iPads. (This might be difficult if re-establishing connection )
+
+Dialog:  codesign wants to access key "Apple Development: Justin Chung (Justin Chung)" in your keychain
+(local password)
+
+Connectivity Failed!!!
+
+
+#### Troubleshooting
+
+~/gitlab/ray-doc/journal/2024/04/02.md
+
+
+1. Have to turn on "Developer Mode" in iPad (setting -> ... )
+  - Privacy & Security
+  - Sometimes, Developer Mode is not showing in "Privacy & Security"
+    - In that case, connect iPad with Xcode,
+    - Then, some dialog will complain device is not turned on for "developer mode"
+    - Then, go to "Privacy & security".  It will show.
+    - Turning on will require restart ipad
+
+2. Trust developer:  justinchung7825@outlook.com
+  - General -> VPN & Device Management

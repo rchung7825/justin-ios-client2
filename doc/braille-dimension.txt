@@ -1,0 +1,15 @@
+https://brailleaustralia.org/about-braille/physical-specifications-for-braille/
+
+height: 0.7
+base diameter: 1.5
+
+>>> def r(d:float, h:float):
+...   r= ((1/4)*d*d + h*h) / (2*h)
+...   return r
+
+
+>>> r(1.5, 0.7)
+0.7517857142857143    # approximate to 0.8
+
+
+   

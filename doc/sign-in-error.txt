@@ -1,0 +1,9 @@
+If build fails, and giving "can't sign in" or something like this,
+
+Check:
+ipad -> Setting -> Developer ->  (all the way bottom), Sign In.
+
+Use justin's icloud cred, on this ipad:
+	~/bitbucket/raytoy/auth/justin_outlook_icloud
+
+
