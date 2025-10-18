@@ -1,5 +1,11 @@
 # Justin iOS client 2
 
+THIS REPO contains "Privacy Policy" for IOS deployment to AppStore.
+Do NOT DELETE.
+
+
+
+
 iOS app:  especially for iPad
 New version
 
